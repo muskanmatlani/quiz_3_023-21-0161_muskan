@@ -10,7 +10,7 @@ body{
 }
 .left_side{
     flex: 1;
-    background: url('backgroundimg.jpeg');
+    background: url('back2.jpeg');
     height: 100%;
 }
 .right_side{
